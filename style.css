@@ -55,7 +55,7 @@ li {
 li span {
   font-weight: bold;
 }
- 
+
 .value,
 .value1 {
   font-style: italic;
@@ -63,12 +63,12 @@ li span {
   text-align: left;
   padding-left: 10%;
 }
- 
+
 #tribute-link {
   text-decoration: none;
   cursor: pointer;
 }
- 
+
 @media only screen and (max-width: 600px) {
   #img-div {
     background-color: #fff;
